@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+
+  Copyright : 2012 Freescale, Inc. All Rights Reserved.
+
+  This configuration file is a standard interchange file that's format is maintained
+  by Freescale, Inc. The configuration file is a derivative work
+  of the Processor Expert Software technology licensed for use by customers
+  as defined as SOFTWARE in the product's End User License Agreement. This file
+  and format are free to use and distribute for read-only purposes. You do not have
+  the right to create these files or modify this format or use for any purposes other
+  than interchange with the Processor Expert Software technology.
+
+  THIS SOFTWARE IS PROVIDED "AS IS".
+
+  NO WARRANTIES, WHETHER EXPRESS, IMPLIED OR STATUTORY, INCLUDING, BUT NOT
+  LIMITED TO, IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR
+  PURPOSE APPLY TO THIS SOFTWARE. IN NO EVENT WILL FREESCALE BE LIABLE, WHETHER
+  IN CONTRACT, TORT, OR OTHERWISE, FOR ANY INCIDENTAL, SPECIAL, INDIRECT,
+  CONSEQUENTIAL OR PUNITIVE DAMAGES, INCLUDING, BUT NOT LIMITED TO, DAMAGES FOR
+  ANY LOSS OF USE, LOSS OF TIME, INCONVENIENCE, COMMERCIAL LOSS, OR LOST PROFITS,
+  SAVINGS, OR REVENUES TO THE FULL EXTENT SUCH MAY BE DISCLAIMED BY LAW.
+
+-->
+<export xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ProjectInfoDescription.xsd">
+  <PROCESSOR>
+    <DeviceID>MK10DN512xxx10</DeviceID>
+    <CoreNum>1</CoreNum>
+    <Cores>
+      <Core>
+        <CoreSet>Cortex-M4</CoreSet>
+      </Core>
+    </Cores>
+    <SRAMsize>128k</SRAMsize>
+    <FLASHsize>512k</FLASHsize>
+  </PROCESSOR>
+  <PATHS>
+    <LinkerCommandFile>H:\IAR project\Demo\Project_Settings\Linker_Files\ProcessorExpert.icf</LinkerCommandFile>
+    <IncludePaths>
+      <Path>H:\IAR project\Demo\Static_Code\PDD\</Path>
+      <Path>H:\IAR project\Demo\Static_Code\IO_Map\</Path>
+      <Path>H:\IAR project\Demo\Sources\</Path>
+      <Path>H:\IAR project\Demo\Generated_Code\</Path>
+    </IncludePaths>
+    <SourceCodePaths>
+      <Path>H:\IAR project\Demo\Generated_Code\</Path>
+      <Path>H:\IAR project\Demo\Sources\</Path>
+      <Path>H:\IAR project\Demo\User_Component\User_Control\IMG_Process\</Path>
+      <Path>H:\IAR project\Demo\User_Component\User_Control\UI\</Path>
+      <Path>H:\IAR project\Demo\User_Component\User_Device\Camera\</Path>
+      <Path>H:\IAR project\Demo\User_Component\User_Device\Key\</Path>
+      <Path>H:\IAR project\Demo\User_Component\User_Device\Motor\</Path>
+      <Path>H:\IAR project\Demo\User_Component\User_Device\Servo\</Path>
+      <Path>H:\IAR project\Demo\User_Component\User_Device\blueteeth\</Path>
+      <Path>H:\IAR project\Demo\User_Component\User_Device\oled\</Path>
+      <Path>H:\IAR project\Demo\User_Component\User_Driver\Delay\</Path>
+      <Path>H:\IAR project\Demo\User_Component\User_Driver\Flash\</Path>
+    </SourceCodePaths>
+  </PATHS>
+  <FILES>
+    <GeneratedCs>
+      <PathName>H:\IAR project\Demo\Generated_Code\AD1.c</PathName>
+      <PathName>H:\IAR project\Demo\Generated_Code\Cpu.c</PathName>
+      <PathName>H:\IAR project\Demo\Generated_Code\Delay_ms.c</PathName>
+      <PathName>H:\IAR project\Demo\Generated_Code\Delay_us.c</PathName>
+      <PathName>H:\IAR project\Demo\Generated_Code\FLASH.c</PathName>
+      <PathName>H:\IAR project\Demo\Generated_Code\HREF.c</PathName>
+      <PathName>H:\IAR project\Demo\Generated_Code\Oled_D0.c</PathName>
+      <PathName>H:\IAR project\Demo\Generated_Code\Oled_D1.c</PathName>
+      <PathName>H:\IAR project\Demo\Generated_Code\Oled_DC.c</PathName>
+      <PathName>H:\IAR project\Demo\Generated_Code\Oled_Rst.c</PathName>
+      <PathName>H:\IAR project\Demo\Generated_Code\PE_LDD.c</PathName>
+      <PathName>H:\IAR project\Demo\Generated_Code\PWM1.c</PathName>
+      <PathName>H:\IAR project\Demo\Generated_Code\PWM2.c</PathName>
+      <PathName>H:\IAR project\Demo\Generated_Code\PWM3.c</PathName>
+      <PathName>H:\IAR project\Demo\Generated_Code\PWM4.c</PathName>
+      <PathName>H:\IAR project\Demo\Generated_Code\PWMServo.c</PathName>
+      <PathName>H:\IAR project\Demo\Generated_Code\TU1.c</PathName>
+      <PathName>H:\IAR project\Demo\Generated_Code\TU2.c</PathName>
+      <PathName>H:\IAR project\Demo\Generated_Code\TU3.c</PathName>
+      <PathName>H:\IAR project\Demo\Generated_Code\TU4.c</PathName>
+      <PathName>H:\IAR project\Demo\Generated_Code\USART.c</PathName>
+      <PathName>H:\IAR project\Demo\Generated_Code\VSYN.c</PathName>
+      <PathName>H:\IAR project\Demo\Generated_Code\Vectors.c</PathName>
+      <PathName>H:\IAR project\Demo\Generated_Code\key1.c</PathName>
+      <PathName>H:\IAR project\Demo\Generated_Code\key2.c</PathName>
+      <PathName>H:\IAR project\Demo\Generated_Code\key3.c</PathName>
+      <PathName>H:\IAR project\Demo\Generated_Code\key4.c</PathName>
+      <PathName>H:\IAR project\Demo\Generated_Code\key5.c</PathName>
+      <PathName>H:\IAR project\Demo\Generated_Code\key6.c</PathName>
+      <PathName>H:\IAR project\Demo\Generated_Code\key7.c</PathName>
+      <PathName>H:\IAR project\Demo\Generated_Code\key8.c</PathName>
+      <PathName>H:\IAR project\Demo\Sources\Events.c</PathName>
+      <PathName>H:\IAR project\Demo\Sources\main.c</PathName>
+      <PathName>H:\IAR project\Demo\User_Component\User_Control\IMG_Process\Get_Line.c</PathName>
+      <PathName>H:\IAR project\Demo\User_Component\User_Control\UI\UI.c</PathName>
+      <PathName>H:\IAR project\Demo\User_Component\User_Device\Camera\Camera.c</PathName>
+      <PathName>H:\IAR project\Demo\User_Component\User_Device\Key\key.c</PathName>
+      <PathName>H:\IAR project\Demo\User_Component\User_Device\Motor\Motor.c</PathName>
+      <PathName>H:\IAR project\Demo\User_Component\User_Device\Servo\Servo.c</PathName>
+      <PathName>H:\IAR project\Demo\User_Component\User_Device\blueteeth\Usart.c</PathName>
+      <PathName>H:\IAR project\Demo\User_Component\User_Device\oled\oled.c</PathName>
+      <PathName>H:\IAR project\Demo\User_Component\User_Driver\Delay\Delay.c</PathName>
+      <PathName>H:\IAR project\Demo\User_Component\User_Driver\Flash\Storage.c</PathName>
+    </GeneratedCs>
+    <GeneratedHs>
+      <PathName>H:\IAR project\Demo\Generated_Code\AD1.h</PathName>
+      <PathName>H:\IAR project\Demo\Generated_Code\Cpu.h</PathName>
+      <PathName>H:\IAR project\Demo\Generated_Code\Delay_ms.h</PathName>
+      <PathName>H:\IAR project\Demo\Generated_Code\Delay_us.h</PathName>
+      <PathName>H:\IAR project\Demo\Generated_Code\FLASH.h</PathName>
+      <PathName>H:\IAR project\Demo\Generated_Code\HREF.h</PathName>
+      <PathName>H:\IAR project\Demo\Generated_Code\IO_Map.h</PathName>
+      <PathName>H:\IAR project\Demo\Generated_Code\Oled_D0.h</PathName>
+      <PathName>H:\IAR project\Demo\Generated_Code\Oled_D1.h</PathName>
+      <PathName>H:\IAR project\Demo\Generated_Code\Oled_DC.h</PathName>
+      <PathName>H:\IAR project\Demo\Generated_Code\Oled_Rst.h</PathName>
+      <PathName>H:\IAR project\Demo\Generated_Code\PE_Const.h</PathName>
+      <PathName>H:\IAR project\Demo\Generated_Code\PE_Error.h</PathName>
+      <PathName>H:\IAR project\Demo\Generated_Code\PE_LDD.h</PathName>
+      <PathName>H:\IAR project\Demo\Generated_Code\PE_Types.h</PathName>
+      <PathName>H:\IAR project\Demo\Generated_Code\PWM1.h</PathName>
+      <PathName>H:\IAR project\Demo\Generated_Code\PWM2.h</PathName>
+      <PathName>H:\IAR project\Demo\Generated_Code\PWM3.h</PathName>
+      <PathName>H:\IAR project\Demo\Generated_Code\PWM4.h</PathName>
+      <PathName>H:\IAR project\Demo\Generated_Code\PWMServo.h</PathName>
+      <PathName>H:\IAR project\Demo\Generated_Code\TU1.h</PathName>
+      <PathName>H:\IAR project\Demo\Generated_Code\TU2.h</PathName>
+      <PathName>H:\IAR project\Demo\Generated_Code\TU3.h</PathName>
+      <PathName>H:\IAR project\Demo\Generated_Code\TU4.h</PathName>
+      <PathName>H:\IAR project\Demo\Generated_Code\USART.h</PathName>
+      <PathName>H:\IAR project\Demo\Generated_Code\VSYN.h</PathName>
+      <PathName>H:\IAR project\Demo\Generated_Code\key1.h</PathName>
+      <PathName>H:\IAR project\Demo\Generated_Code\key2.h</PathName>
+      <PathName>H:\IAR project\Demo\Generated_Code\key3.h</PathName>
+      <PathName>H:\IAR project\Demo\Generated_Code\key4.h</PathName>
+      <PathName>H:\IAR project\Demo\Generated_Code\key5.h</PathName>
+      <PathName>H:\IAR project\Demo\Generated_Code\key6.h</PathName>
+      <PathName>H:\IAR project\Demo\Generated_Code\key7.h</PathName>
+      <PathName>H:\IAR project\Demo\Generated_Code\key8.h</PathName>
+      <PathName>H:\IAR project\Demo\Sources\Events.h</PathName>
+      <PathName>H:\IAR project\Demo\Static_Code\IO_Map\MK10D10.h</PathName>
+      <PathName>H:\IAR project\Demo\Static_Code\PDD\ADC_PDD.h</PathName>
+      <PathName>H:\IAR project\Demo\Static_Code\PDD\CAN_PDD.h</PathName>
+      <PathName>H:\IAR project\Demo\Static_Code\PDD\CMP_PDD.h</PathName>
+      <PathName>H:\IAR project\Demo\Static_Code\PDD\CMT_PDD.h</PathName>
+      <PathName>H:\IAR project\Demo\Static_Code\PDD\CRC_PDD.h</PathName>
+      <PathName>H:\IAR project\Demo\Static_Code\PDD\DAC_PDD.h</PathName>
+      <PathName>H:\IAR project\Demo\Static_Code\PDD\DMAMUX_PDD.h</PathName>
+      <PathName>H:\IAR project\Demo\Static_Code\PDD\DMA_PDD.h</PathName>
+      <PathName>H:\IAR project\Demo\Static_Code\PDD\EWM_PDD.h</PathName>
+      <PathName>H:\IAR project\Demo\Static_Code\PDD\FMC_PDD.h</PathName>
+      <PathName>H:\IAR project\Demo\Static_Code\PDD\FTFL_PDD.h</PathName>
+      <PathName>H:\IAR project\Demo\Static_Code\PDD\FTM_PDD.h</PathName>
+      <PathName>H:\IAR project\Demo\Static_Code\PDD\GPIO_PDD.h</PathName>
+      <PathName>H:\IAR project\Demo\Static_Code\PDD\I2C_PDD.h</PathName>
+      <PathName>H:\IAR project\Demo\Static_Code\PDD\LPTMR_PDD.h</PathName>
+      <PathName>H:\IAR project\Demo\Static_Code\PDD\MCM_PDD.h</PathName>
+      <PathName>H:\IAR project\Demo\Static_Code\PDD\PDB_PDD.h</PathName>
+      <PathName>H:\IAR project\Demo\Static_Code\PDD\PDD_Types.h</PathName>
+      <PathName>H:\IAR project\Demo\Static_Code\PDD\PIT_PDD.h</PathName>
+      <PathName>H:\IAR project\Demo\Static_Code\PDD\PORT_PDD.h</PathName>
+      <PathName>H:\IAR project\Demo\Static_Code\PDD\RTC_PDD.h</PathName>
+      <PathName>H:\IAR project\Demo\Static_Code\PDD\SAI_PDD.h</PathName>
+      <PathName>H:\IAR project\Demo\Static_Code\PDD\SDHC_PDD.h</PathName>
+      <PathName>H:\IAR project\Demo\Static_Code\PDD\SIM_PDD.h</PathName>
+      <PathName>H:\IAR project\Demo\Static_Code\PDD\SPI_PDD.h</PathName>
+      <PathName>H:\IAR project\Demo\Static_Code\PDD\SysTick_PDD.h</PathName>
+      <PathName>H:\IAR project\Demo\Static_Code\PDD\UART_PDD.h</PathName>
+      <PathName>H:\IAR project\Demo\Static_Code\PDD\VREF_PDD.h</PathName>
+      <PathName>H:\IAR project\Demo\Static_Code\PDD\WDOG_PDD.h</PathName>
+      <PathName>H:\IAR project\Demo\User_Component\User_Control\IMG_Process\Get_Line.h</PathName>
+      <PathName>H:\IAR project\Demo\User_Component\User_Control\PID\PID.h</PathName>
+      <PathName>H:\IAR project\Demo\User_Component\User_Control\UI\UI.h</PathName>
+      <PathName>H:\IAR project\Demo\User_Component\User_Device\Camera\Camera.h</PathName>
+      <PathName>H:\IAR project\Demo\User_Component\User_Device\Key\key.h</PathName>
+      <PathName>H:\IAR project\Demo\User_Component\User_Device\Motor\Motor.h</PathName>
+      <PathName>H:\IAR project\Demo\User_Component\User_Device\Servo\Servo.h</PathName>
+      <PathName>H:\IAR project\Demo\User_Component\User_Device\blueteeth\Usart.h</PathName>
+      <PathName>H:\IAR project\Demo\User_Component\User_Device\oled\oled.h</PathName>
+      <PathName>H:\IAR project\Demo\User_Component\User_Driver\Delay\Delay.h</PathName>
+      <PathName>H:\IAR project\Demo\User_Component\User_Driver\Flash\Storage.h</PathName>
+      <PathName>H:\IAR project\Demo\User_Component\User_Driver\User_driver.h</PathName>
+    </GeneratedHs>
+  </FILES>
+  <OPTIONS>
+  </OPTIONS>
+</export>

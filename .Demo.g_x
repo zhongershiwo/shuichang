@@ -1,0 +1,153 @@
+<CodeGenerationInfo>
+  <ToolchainSettings>
+    <option>
+      <name>PE_G_4PEx_ToolChain_Compiler_SearchUserPaths</name>
+      <values lines_count="4">
+        <Line>"${ProjDirPath}/Static_Code\PDD"</Line>
+        <Line>"${ProjDirPath}/Static_Code\IO_Map"</Line>
+        <Line>"${ProjDirPath}/Sources"</Line>
+        <Line>"${ProjDirPath}/Generated_Code"</Line>
+      </values>
+    </option>
+  </ToolchainSettings>
+  <GeneratedFilesList>
+    <GeneratedByPE>
+      <File Name="Documentation/doxygen/TU4.txt" FileDate="2017-10-30, 22:06:14" FileAge="1509372374019" FileType="45637" CompNumb="55" />
+      <File Name="Documentation/doxygen/RoutingReport.txt" FileDate="2017-09-24, 01:10:33" FileAge="1506186633178" FileType="45637" CompNumb="8" />
+      <File Name="Generated_Code/FLASH.h" FileDate="2017-09-26, 19:32:05" FileAge="1506425525247" FileType="45637" CompNumb="61" />
+      <File Name="Static_Code/PDD/CMP_PDD.h" FileDate="2017-09-24, 01:10:32" FileAge="1506186632909" FileType="1048576" />
+      <File Name="Documentation/doxygen/pex.doxyfile" FileDate="2017-09-24, 01:10:33" FileAge="1506186633176" FileType="45637" CompNumb="8" />
+      <File Name="Documentation/doxygen/key7.txt" FileDate="2017-10-23, 18:07:28" FileAge="1508753248692" FileType="45637" CompNumb="29" />
+      <File Name="Static_Code/PDD/SysTick_PDD.h" FileDate="2017-09-24, 01:10:33" FileAge="1506186633131" FileType="1048576" />
+      <File Name="Generated_Code/FLASH.c" FileDate="2017-09-26, 19:32:05" FileAge="1506425525253" FileType="45637" CompNumb="61" />
+      <File Name="Documentation/doxygen/PWM3.txt" FileDate="2017-10-23, 16:54:05" FileAge="1508748845400" FileType="45637" CompNumb="18" />
+      <File Name="Generated_Code/PE_LDD.h" FileDate="2017-10-23, 17:00:36" FileAge="1508749236323" FileType="45637" CompNumb="8" />
+      <File Name="Static_Code/PDD/SAI_PDD.h" FileDate="2017-09-24, 01:10:33" FileAge="1506186633086" FileType="1048576" />
+      <File Name="Documentation/doxygen/key1.txt" FileDate="2017-10-23, 18:07:28" FileAge="1508753248637" FileType="45637" CompNumb="23" />
+      <File Name="Static_Code/PDD/DMA_PDD.h" FileDate="2017-09-24, 01:10:32" FileAge="1506186632964" FileType="1048576" />
+      <File Name="Generated_Code/PE_LDD.c" FileDate="2017-10-30, 22:06:14" FileAge="1509372374055" FileType="45637" CompNumb="8" />
+      <File Name="Documentation/doxygen/Oled_D0.txt" FileDate="2017-10-23, 18:07:28" FileAge="1508753248703" FileType="45637" CompNumb="31" />
+      <File Name="Documentation/doxygen/TU3.txt" FileDate="2017-10-31, 01:34:52" FileAge="1509384892586" FileType="45637" CompNumb="22" />
+      <File Name="Documentation/doxygen/Delay_us.txt" FileDate="2017-09-26, 21:19:40" FileAge="1506431980770" FileType="45637" CompNumb="10" />
+      <File Name="Static_Code/PDD/SPI_PDD.h" FileDate="2017-09-24, 01:10:33" FileAge="1506186633121" FileType="1048576" />
+      <File Name="Generated_Code/PE_Error.h" FileDate="2017-09-24, 01:16:19" FileAge="1506186979320" FileType="45637" />
+      <File Name="Project_Settings/Linker_Files/ProcessorExpert.icf" FileDate="2017-09-26, 19:11:15" FileAge="1506424275199" FileType="8" CompNumb="8" />
+      <File Name="Static_Code/PDD/EWM_PDD.h" FileDate="2017-09-24, 01:10:32" FileAge="1506186632985" FileType="1048576" />
+      <File Name="Static_Code/PDD/SIM_PDD.h" FileDate="2017-09-24, 01:10:33" FileAge="1506186633103" FileType="1048576" />
+      <File Name="Static_Code/PDD/ADC_PDD.h" FileDate="2017-09-24, 01:10:32" FileAge="1506186632890" FileType="1048576" />
+      <File Name="Generated_Code/Delay_ms.h" FileDate="2017-09-25, 16:58:55" FileAge="1506329935661" FileType="45637" CompNumb="54" />
+      <File Name="Documentation/doxygen/key6.txt" FileDate="2017-10-23, 18:07:28" FileAge="1508753248685" FileType="45637" CompNumb="28" />
+      <File Name="Documentation/doxygen/USART.txt" FileDate="2017-10-23, 16:53:07" FileAge="1508748787468" FileType="45637" CompNumb="42" />
+      <File Name="Static_Code/PDD/DAC_PDD.h" FileDate="2017-09-24, 01:10:32" FileAge="1506186632931" FileType="1048576" />
+      <File Name="Static_Code/PDD/FTM_PDD.h" FileDate="2017-09-24, 01:10:33" FileAge="1506186633000" FileType="1048576" />
+      <File Name="Static_Code/IO_Map/MK10D10.h" FileDate="2017-09-24, 01:10:32" FileAge="1506186632855" FileType="1048576" CompNumb="8" />
+      <File Name="Generated_Code/Delay_ms.c" FileDate="2017-09-25, 16:58:55" FileAge="1506329935637" FileType="45637" CompNumb="54" />
+      <File Name="Documentation/doxygen/VSYN.txt" FileDate="2017-10-30, 22:06:14" FileAge="1509372374014" FileType="45637" CompNumb="50" />
+      <File Name="Documentation/doxygen/PWM2.txt" FileDate="2017-10-23, 16:54:05" FileAge="1508748845413" FileType="45637" CompNumb="19" />
+      <File Name="Documentation/doxygen/AD1.txt" FileDate="2017-10-30, 22:06:14" FileAge="1509372374041" FileType="45637" CompNumb="56" />
+      <File Name="Documentation/doxygen/HREF.txt" FileDate="2017-10-23, 17:00:36" FileAge="1508749236224" FileType="45637" CompNumb="49" />
+      <File Name="Documentation/doxygen/PWMServo.txt" FileDate="2017-10-31, 01:34:52" FileAge="1509384892595" FileType="45637" CompNumb="21" />
+      <File Name="Generated_Code/Oled_D1.h" FileDate="2017-10-23, 16:32:51" FileAge="1508747571248" FileType="45637" CompNumb="32" />
+      <File Name="Static_Code/PDD/SDHC_PDD.h" FileDate="2017-09-24, 01:10:33" FileAge="1506186633096" FileType="1048576" />
+      <File Name="Documentation/doxygen/Oled_Rst.txt" FileDate="2017-10-23, 18:07:28" FileAge="1508753248712" FileType="45637" CompNumb="34" />
+      <File Name="Documentation/doxygen/FLASH.txt" FileDate="2017-09-26, 21:19:42" FileAge="1506431982272" FileType="45637" CompNumb="61" />
+      <File Name="Generated_Code/Oled_D1.c" FileDate="2017-10-23, 16:32:51" FileAge="1508747571253" FileType="45637" CompNumb="32" />
+      <File Name="Generated_Code/Oled_D0.h" FileDate="2017-09-24, 22:29:13" FileAge="1506263353018" FileType="45637" CompNumb="31" />
+      <File Name="Documentation/doxygen/Demo.txt" FileDate="2017-10-23, 17:00:36" FileAge="1508749236314" FileType="45637" CompNumb="8" />
+      <File Name="Documentation/doxygen/TU2.txt" FileDate="2017-10-23, 16:54:05" FileAge="1508748845391" FileType="45637" CompNumb="17" />
+      <File Name="Generated_Code/Oled_D0.c" FileDate="2017-09-24, 22:29:13" FileAge="1506263353018" FileType="45637" CompNumb="31" />
+      <File Name="Static_Code/PDD/PDD_Types.h" FileDate="2017-09-24, 01:10:32" FileAge="1506186632887" FileType="1048576" CompNumb="8" />
+      <File Name="Static_Code/PDD/FTFL_PDD.h" FileDate="2017-09-24, 01:10:32" FileAge="1506186632993" FileType="1048576" />
+      <File Name="Static_Code/PDD/CMT_PDD.h" FileDate="2017-09-24, 01:10:32" FileAge="1506186632920" FileType="1048576" />
+      <File Name="Documentation/doxygen/key5.txt" FileDate="2017-10-23, 18:07:28" FileAge="1508753248668" FileType="45637" CompNumb="27" />
+      <File Name="Static_Code/PDD/PDB_PDD.h" FileDate="2017-09-24, 01:10:33" FileAge="1506186633026" FileType="1048576" />
+      <File Name="Generated_Code/Delay_us.h" FileDate="2017-09-26, 21:19:40" FileAge="1506431980762" FileType="45637" CompNumb="10" />
+      <File Name="Generated_Code/Delay_us.c" FileDate="2017-09-26, 21:19:40" FileAge="1506431980766" FileType="45637" CompNumb="10" />
+      <File Name="Generated_Code/Vectors.c" FileDate="2017-10-30, 22:06:14" FileAge="1509372374060" FileType="45637" CompNumb="8" />
+      <File Name="Documentation/doxygen/PWM1.txt" FileDate="2017-10-23, 16:54:05" FileAge="1508748845418" FileType="45637" CompNumb="20" />
+      <File Name="Static_Code/PDD/DMAMUX_PDD.h" FileDate="2017-09-24, 01:10:32" FileAge="1506186632937" FileType="1048576" />
+      <File Name="Documentation/Demo.txt" FileDate="2017-10-23, 17:00:36" FileAge="1508749236919" FileType="3072" />
+      <File Name="Generated_Code/IO_Map.h" FileDate="2017-09-24, 01:16:19" FileAge="1506186979308" FileType="45637" />
+      <File Name="Static_Code/PDD/VREF_PDD.h" FileDate="2017-09-24, 01:10:33" FileAge="1506186633147" FileType="1048576" />
+      <File Name="Generated_Code/key8.h" FileDate="2017-10-23, 18:07:28" FileAge="1508753248502" FileType="45637" CompNumb="30" />
+      <File Name="Static_Code/PDD/PORT_PDD.h" FileDate="2017-09-24, 01:10:33" FileAge="1506186633070" FileType="1048576" />
+      <File Name="Generated_Code/key8.c" FileDate="2017-10-23, 18:07:28" FileAge="1508753248695" FileType="45637" CompNumb="30" />
+      <File Name="Static_Code/PDD/UART_PDD.h" FileDate="2017-09-24, 01:10:33" FileAge="1506186633134" FileType="1048576" />
+      <File Name="Generated_Code/key7.h" FileDate="2017-10-23, 18:07:28" FileAge="1508753248572" FileType="45637" CompNumb="29" />
+      <File Name="Documentation/doxygen/TU1.txt" FileDate="2017-09-26, 21:19:40" FileAge="1506431980757" FileType="45637" CompNumb="11" />
+      <File Name="Documentation/doxygen/Oled_DC.txt" FileDate="2017-10-23, 18:07:28" FileAge="1508753248715" FileType="45637" CompNumb="35" />
+      <File Name="Generated_Code/key7.c" FileDate="2017-10-23, 18:07:28" FileAge="1508753248689" FileType="45637" CompNumb="29" />
+      <File Name="Generated_Code/TU4.h" FileDate="2017-09-25, 16:58:55" FileAge="1506329935681" FileType="45637" CompNumb="55" />
+      <File Name="Generated_Code/key6.h" FileDate="2017-10-23, 18:07:28" FileAge="1508753248578" FileType="45637" CompNumb="28" />
+      <File Name="Static_Code/PDD/I2C_PDD.h" FileDate="2017-09-24, 01:10:33" FileAge="1506186633013" FileType="1048576" />
+      <File Name="Static_Code/PDD/PIT_PDD.h" FileDate="2017-09-24, 01:10:33" FileAge="1506186633041" FileType="1048576" />
+      <File Name="Documentation/Demo_SIGNALS.txt" FileDate="2017-10-31, 15:14:28" FileAge="1509434068653" FileType="3072" />
+      <File Name="Generated_Code/PE_Types.h" FileDate="2017-10-23, 17:00:36" FileAge="1508749236297" FileType="45637" />
+      <File Name="Generated_Code/TU4.c" FileDate="2017-09-25, 16:58:56" FileAge="1506329936312" FileType="45637" CompNumb="55" />
+      <File Name="Documentation/doxygen/key4.txt" FileDate="2017-10-23, 18:07:28" FileAge="1508753248660" FileType="45637" CompNumb="26" />
+      <File Name="Generated_Code/PWM4.h" FileDate="2017-10-23, 16:54:05" FileAge="1508748845360" FileType="45637" CompNumb="16" />
+      <File Name="Generated_Code/Cpu.h" FileDate="2017-10-30, 22:06:14" FileAge="1509372374046" FileType="45637" CompNumb="8" />
+      <File Name="Generated_Code/TU3.h" FileDate="2017-10-31, 01:34:52" FileAge="1509384892577" FileType="45637" CompNumb="22" />
+      <File Name="Generated_Code/key6.c" FileDate="2017-10-23, 18:07:28" FileAge="1508753248681" FileType="45637" CompNumb="28" />
+      <File Name="Static_Code/PDD/MCM_PDD.h" FileDate="2017-09-24, 01:10:33" FileAge="1506186633023" FileType="1048576" />
+      <File Name="Generated_Code/key5.h" FileDate="2017-10-23, 18:07:28" FileAge="1508753248582" FileType="45637" CompNumb="27" />
+      <File Name="Generated_Code/HREF.h" FileDate="2017-10-30, 22:06:13" FileAge="1509372373923" FileType="45637" CompNumb="49" />
+      <File Name="Generated_Code/PWM4.c" FileDate="2017-10-23, 16:54:05" FileAge="1508748845355" FileType="45637" CompNumb="16" />
+      <File Name="Generated_Code/Cpu.c" FileDate="2017-10-30, 22:06:14" FileAge="1509372374051" FileType="45637" CompNumb="8" />
+      <File Name="Generated_Code/TU3.c" FileDate="2017-10-31, 01:34:52" FileAge="1509384892580" FileType="45637" CompNumb="22" />
+      <File Name="Generated_Code/key5.c" FileDate="2017-10-23, 18:07:28" FileAge="1508753248664" FileType="45637" CompNumb="27" />
+      <File Name="Generated_Code/TU2.h" FileDate="2017-10-23, 16:54:05" FileAge="1508748845377" FileType="45637" CompNumb="17" />
+      <File Name="Generated_Code/PWM3.h" FileDate="2017-10-23, 16:53:07" FileAge="1508748787365" FileType="45637" CompNumb="18" />
+      <File Name="Generated_Code/key4.h" FileDate="2017-10-23, 18:07:28" FileAge="1508753248586" FileType="45637" CompNumb="26" />
+      <File Name="Generated_Code/HREF.c" FileDate="2017-10-30, 22:06:13" FileAge="1509372373966" FileType="45637" CompNumb="49" />
+      <File Name="Generated_Code/TU2.c" FileDate="2017-10-23, 16:54:05" FileAge="1508748845385" FileType="45637" CompNumb="17" />
+      <File Name="Generated_Code/PWM3.c" FileDate="2017-10-23, 16:53:07" FileAge="1508748787358" FileType="45637" CompNumb="18" />
+      <File Name="Generated_Code/PWM2.h" FileDate="2017-10-23, 16:53:07" FileAge="1508748787348" FileType="45637" CompNumb="19" />
+      <File Name="Generated_Code/TU1.h" FileDate="2017-09-26, 21:19:40" FileAge="1506431980744" FileType="45637" CompNumb="11" />
+      <File Name="Generated_Code/key4.c" FileDate="2017-10-23, 18:07:28" FileAge="1508753248657" FileType="45637" CompNumb="26" />
+      <File Name="Generated_Code/key3.h" FileDate="2017-10-23, 18:07:28" FileAge="1508753248593" FileType="45637" CompNumb="25" />
+      <File Name="Generated_Code/PWM2.c" FileDate="2017-10-23, 16:53:07" FileAge="1508748787335" FileType="45637" CompNumb="19" />
+      <File Name="Generated_Code/TU1.c" FileDate="2017-09-26, 21:19:40" FileAge="1506431980752" FileType="45637" CompNumb="11" />
+      <File Name="Generated_Code/key3.c" FileDate="2017-10-23, 18:07:28" FileAge="1508753248648" FileType="45637" CompNumb="25" />
+      <File Name="Generated_Code/PWM1.h" FileDate="2017-10-23, 16:53:07" FileAge="1508748787323" FileType="45637" CompNumb="20" />
+      <File Name="Generated_Code/key2.h" FileDate="2017-10-23, 18:07:28" FileAge="1508753248608" FileType="45637" CompNumb="24" />
+      <File Name="ProjectInfo.xml" FileDate="2017-10-31, 15:14:29" FileAge="1509434069237" FileType="45637" />
+      <File Name="Static_Code/PDD/RTC_PDD.h" FileDate="2017-09-24, 01:10:33" FileAge="1506186633076" FileType="1048576" />
+      <File Name="Generated_Code/PWM1.c" FileDate="2017-10-23, 16:53:07" FileAge="1508748787317" FileType="45637" CompNumb="20" />
+      <File Name="Generated_Code/key2.c" FileDate="2017-10-23, 18:07:28" FileAge="1508753248640" FileType="45637" CompNumb="24" />
+      <File Name="Generated_Code/key1.h" FileDate="2017-10-23, 18:07:28" FileAge="1508753248612" FileType="45637" CompNumb="23" />
+      <File Name="Generated_Code/Oled_DC.h" FileDate="2017-10-23, 16:32:51" FileAge="1508747571360" FileType="45637" CompNumb="35" />
+      <File Name="Generated_Code/key1.c" FileDate="2017-10-23, 18:07:28" FileAge="1508753248633" FileType="45637" CompNumb="23" />
+      <File Name="Static_Code/PDD/CRC_PDD.h" FileDate="2017-09-24, 01:10:32" FileAge="1506186632926" FileType="1048576" />
+      <File Name="Sources/main.c" FileDate="2017-10-31, 01:41:36" FileAge="1509385296138" FileType="128" />
+      <File Name="Documentation/doxygen/pex.css" FileDate="2017-09-24, 01:10:32" FileAge="1506186632745" FileType="16384" CompNumb="8" />
+      <File Name="Static_Code/PDD/FMC_PDD.h" FileDate="2017-09-24, 01:10:32" FileAge="1506186632988" FileType="1048576" />
+      <File Name="Generated_Code/Oled_DC.c" FileDate="2017-10-23, 16:32:51" FileAge="1508747571374" FileType="45637" CompNumb="35" />
+      <File Name="Documentation/doxygen/key3.txt" FileDate="2017-10-23, 18:07:28" FileAge="1508753248653" FileType="45637" CompNumb="25" />
+      <File Name="Generated_Code/VSYN.h" FileDate="2017-10-30, 22:06:13" FileAge="1509372373989" FileType="45637" CompNumb="50" />
+      <File Name="Generated_Code/AD1.h" FileDate="2017-10-30, 22:06:14" FileAge="1509372374030" FileType="45637" CompNumb="56" />
+      <File Name="Sources/Events.h" FileDate="2017-10-23, 16:32:51" FileAge="1508747571648" FileType="131328" />
+      <File Name="Generated_Code/VSYN.c" FileDate="2017-10-30, 22:06:14" FileAge="1509372374002" FileType="45637" CompNumb="50" />
+      <File Name="Generated_Code/AD1.c" FileDate="2017-10-30, 22:06:14" FileAge="1509372374036" FileType="45637" CompNumb="56" />
+      <File Name="Static_Code/PDD/CAN_PDD.h" FileDate="2017-09-24, 01:10:32" FileAge="1506186632901" FileType="1048576" />
+      <File Name="Sources/Events.c" FileDate="2017-09-26, 21:57:41" FileAge="1506434261470" FileType="131328" />
+      <File Name="Documentation/doxygen/key8.txt" FileDate="2017-10-23, 18:07:28" FileAge="1508753248699" FileType="45637" CompNumb="30" />
+      <File Name="Generated_Code/PE_Const.h" FileDate="2017-09-24, 01:16:19" FileAge="1506186979313" FileType="45637" />
+      <File Name="Static_Code/PDD/GPIO_PDD.h" FileDate="2017-09-24, 01:10:33" FileAge="1506186633010" FileType="1048576" />
+      <File Name="Generated_Code/PWMServo.h" FileDate="2017-10-31, 01:34:52" FileAge="1509384892558" FileType="45637" CompNumb="21" />
+      <File Name="Documentation/doxygen/PWM4.txt" FileDate="2017-10-23, 16:54:05" FileAge="1508748845395" FileType="45637" CompNumb="16" />
+      <File Name="Generated_Code/PWMServo.c" FileDate="2017-10-31, 01:34:52" FileAge="1509384892590" FileType="45637" CompNumb="21" />
+      <File Name="Documentation/doxygen/Delay_ms.txt" FileDate="2017-10-30, 22:06:14" FileAge="1509372374024" FileType="45637" CompNumb="54" />
+      <File Name="Static_Code/PDD/LPTMR_PDD.h" FileDate="2017-09-24, 01:10:33" FileAge="1506186633019" FileType="1048576" />
+      <File Name="Generated_Code/Oled_Rst.h" FileDate="2017-10-23, 16:32:51" FileAge="1508747571325" FileType="45637" CompNumb="34" />
+      <File Name="Generated_Code/USART.h" FileDate="2017-10-23, 16:53:07" FileAge="1508748787267" FileType="45637" CompNumb="42" />
+      <File Name="Generated_Code/Oled_Rst.c" FileDate="2017-10-23, 16:32:51" FileAge="1508747571330" FileType="45637" CompNumb="34" />
+      <File Name="Documentation/Demo_Settings.xml" FileDate="2017-10-31, 01:34:52" FileAge="1509384892709" FileType="3072" />
+      <File Name="Documentation/doxygen/key2.txt" FileDate="2017-10-23, 18:07:28" FileAge="1508753248644" FileType="45637" CompNumb="24" />
+      <File Name="Generated_Code/USART.c" FileDate="2017-10-23, 16:53:07" FileAge="1508748787435" FileType="45637" CompNumb="42" />
+      <File Name="Static_Code/PDD/WDOG_PDD.h" FileDate="2017-09-24, 01:10:33" FileAge="1506186633150" FileType="1048576" />
+      <File Name="Documentation/doxygen/Oled_D1.txt" FileDate="2017-10-23, 18:07:28" FileAge="1508753248708" FileType="45637" CompNumb="32" />
+    </GeneratedByPE>
+  </GeneratedFilesList>
+  <CodeGenReference>69</CodeGenReference>
+</CodeGenerationInfo>
